@@ -110,3 +110,4 @@
   110  git add .
   111  git pull
   112  history > command_list_csv
+  113  history > command_list.csv
